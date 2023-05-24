@@ -28,5 +28,5 @@ jobs:
       - name: Screenshot Website
         uses: swinton/screenshot-website@v1.x
         with:
-           source: https://github.com/Suheab1995/CheckScreenshot
+           source: https://github.com/Suheab1995/CheckScreenshot/actions/runs/5066696237/jobs/9096826335
            destination: screenshot.png
